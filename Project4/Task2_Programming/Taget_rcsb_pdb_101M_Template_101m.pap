@@ -1,0 +1,14 @@
+ _aln.pos         10        20        30        40        50        60
+101mA     MVLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRVKHLKTEAEMKASEDLKKHGVT 
+101M_1    MVLSEREWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRVKHLKTEAEMKASEDLKKHGVT 
+ _consrvd ***** **************************************************************
+
+ _aln.p   70        80        90       100       110       120       130
+101mA     VLTALGAILKKKGHHEAELKPLAQSHATKHKIPIKYLEFISEAIIHVLHSRHPGNFGADAQGAMNKAL 
+101M_1    VLTALGAILKKKGHREAELKPLAQLHATKHKIPIKYLEFISEAIIHVLHSRHPGNFGADAQGAMNKAL 
+ _consrvd ************** ********* *******************************************
+
+ _aln.pos  140       150
+101mA     ELFRKDIAAKYKELGYQG.h. 
+101M_1    ELFQKDISAKYKELGYQG--- 
+ _consrvd *** *** **********
